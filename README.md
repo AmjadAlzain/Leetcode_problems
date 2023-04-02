@@ -1,6 +1,26 @@
 # Leetcode_problems
 
-01.  TwoSum.py            TwoSum
-26.  removeDuplicates.py  Remove Duplicates from sorted Array
-28.  str_in_Str.py        Find the index of the First occurance in a String
+
+<table> 
+    <tr>
+        <th>No.</th>
+        <th>File</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>01.</td>
+        <td>TwoSum.py</td>
+        <td>TwoSum</td>
+    </tr>
+    <tr>
+        <td>26.</td>
+        <td>removeDuplicates.py</td>
+        <td>Remove Duplicates from sorted Array</td>
+    </tr>
+    <tr>
+        <td>28.</td>
+        <td>str_in_Str.py</td>
+        <td>Find the index of the First occurance in a String</td>
+    </tr>
+<table>
 
