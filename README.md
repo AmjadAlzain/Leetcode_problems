@@ -22,5 +22,10 @@
         <td>str_in_Str.py</td>
         <td>Find the index of the First occurance in a String</td>
     </tr>
+    <tr>
+        <td>58.</td>
+        <td>len_last_word</td>
+        <td>Length of Last Word</td>
+    </tr>
 <table>
 
